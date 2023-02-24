@@ -21,11 +21,20 @@
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center"> 
-  <a href="https://www.python.org" target="_blank"> 
+  <a target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <a  target="_blank"> 
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40" height="40"/> 
+  </a> 
+   <a target="_blank"> 
+    <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40" height="40"/> 
+  </a> 
+  <a  target="_blank"> 
+    <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="Pytorch" width="40" height="40"/> 
+  </a> 
+   <a target="_blank"> 
+    <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="Tensorflow" width="40" height="40"/> 
   </a> 
 </p>
 
