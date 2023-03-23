@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nhat-Quynh (Frankie) </h1>
 <h3 align="center">CS Undergraduate with ultimate goal to be an AI Researcher</h3>
 
-- 🔭 I'm interested doing science research about Natural Language Processing (NLP), and Computer Vision (CV). I have some experience in scientific publication in 3D processing and Natural Language Processing (NLP).
-
-- ⚡ I’m looking to collaborate on doing research on Machine Learning field, specifically in Computer Vision (if possible).
+- 🔭 I'm interested doing science research about Machine Learning, Natural Language Processing (NLP), and Computer Vision (CV).
 
 - 👨‍💻 All of my projects are available at [https://frankielp.me](https://frankielp.me)
 
