@@ -2,9 +2,6 @@
 <h3 align="center">CS Undergraduate with ultimate goal to be an AI Researcher</h3>
 
 - 🔭 I'm interested doing science research about Machine Learning, Natural Language Processing (NLP), and Computer Vision (CV).
-
-#- 👨‍💻 All of my projects are available at [https://frankielp.me](https://frankielp.me)
-
 - 📫 How to reach me: **lephamnhatquynh@gmail.com**
 
 <h3 align="center">Contact me:</h3>
