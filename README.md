@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nhat-Quynh (Frankie) </h1>
 <h3 align="center">CS Undergraduate with ultimate goal to be an AI Researcher</h3>
 
-- 🔭 I'm interested doing science research about Machine Learning, Natural Language Processing (NLP), and Computer Vision (CV).
+- 🔭 I'm interested doing science research about Machine Learning, Natural Language Processing (NLP), and Computer Vision (CV). My working goal is becoming an AI Researcher.
 - 📫 How to reach me: **lephamnhatquynh@gmail.com**
 
 <h3 align="center">Contact me:</h3>
