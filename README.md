@@ -32,10 +32,4 @@
     <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="Tensorflow" width="40" height="40"/> 
   </a> 
 </p>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=frankielp&theme=dark&show_icons=true">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankielp&theme=algolia&layout=compact" />
-</p>
-
 ------
