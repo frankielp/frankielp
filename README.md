@@ -2,7 +2,7 @@
 <h3 align="center">CS Undergraduate with ultimate goal to be an AI Researcher</h3>
 
 - 🔭 I'm interested doing science research about Machine Learning and Computer Vision. 
-- 📫 How to reach me: **lephamnhatquynh@gmail.com**
+- 📫 How to reach me: **lephamnhatquynh AT gmail DOT com**
 
 <h3 align="center">Contact me:</h3>
 <div align="center">
