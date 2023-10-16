@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nhat-Quynh (Frankie) </h1>
-<h3 align="center">Research Resident at VinAI Research</h3>
 
+- I'm currently working as research resident at VinAI Research
 - 🔭 I'm interested in Computer Graphics and Computer Vision, especially in 3D deep learning. 
 - 📫 How to reach me: **lephamnhatquynh AT gmail DOT com**
 
@@ -13,22 +13,4 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center"> 
-  <a target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a  target="_blank"> 
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-   <a target="_blank"> 
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="40" height="40"/> 
-  </a> 
-  <a  target="_blank"> 
-    <img src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg" alt="Pytorch" width="40" height="40"/> 
-  </a> 
-   <a target="_blank"> 
-    <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" alt="Tensorflow" width="40" height="40"/> 
-  </a> 
-</p>
+<!--START_SECTION:activity-->
