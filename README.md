@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nhat-Quynh (Frankie) </h1>
-<h3 align="center">CS Undergraduate with ultimate goal to be an AI Researcher</h3>
+<h3 align="center">Research Resident at VinAI Research</h3>
 
-- 🔭 I'm interested doing science research about Machine Learning and Computer Vision. 
+- 🔭 I'm interested in Computer Graphics and Computer Vision, especially in 3D deep learning. 
 - 📫 How to reach me: **lephamnhatquynh AT gmail DOT com**
 
 <h3 align="center">Contact me:</h3>
