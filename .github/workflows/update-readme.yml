@@ -1,7 +1,7 @@
 name: Update README
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "*/1 * * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -20,4 +20,3 @@ jobs:
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
           GH_USERNAME: frankielp
-          TARGET_FILE: README.md
