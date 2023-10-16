@@ -17,4 +17,5 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1193](https://github.com/NVIDIA/apex/issues/1193#issuecomment-1764299474) in [NVIDIA/apex](https://github.com/NVIDIA/apex)
 <!--END_SECTION:activity-->
