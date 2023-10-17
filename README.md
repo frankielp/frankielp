@@ -2,11 +2,7 @@
 
 - :mortar_board: I'm currently working as research resident at VinAI Research
 - 🔭 I'm interested in Computer Graphics and Computer Vision, especially in 3D deep learning. 
-- 📫 How to reach me: **lephamnhatquynh AT gmail DOT com**
-
-  ![](https://komarev.com/ghpvc/?username=frankielp&color=blueviolet&style=flat-square)
-
-<h3 align="center">Contact:</h3>
+- 📫 How to reach me: 
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lephamnhatquynh/)
@@ -19,3 +15,6 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1193](https://github.com/NVIDIA/apex/issues/1193#issuecomment-1764299474) in [NVIDIA/apex](https://github.com/NVIDIA/apex)
 <!--END_SECTION:activity-->
+
+
+![](https://komarev.com/ghpvc/?username=frankielp&color=blueviolet&style=flat-square)
