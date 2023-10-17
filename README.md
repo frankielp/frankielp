@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nhat-Quynh (Frankie) </h1>
 
-- I'm currently working as research resident at VinAI Research
+- :mortar_board: I'm currently working as research resident at VinAI Research
 - 🔭 I'm interested in Computer Graphics and Computer Vision, especially in 3D deep learning. 
 - 📫 How to reach me: **lephamnhatquynh AT gmail DOT com**
 
