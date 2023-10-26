@@ -13,7 +13,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/graphdeco-inria/gaussian-splatting/issues/76#issuecomment-1780572885) in [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
+1. 🗣 Commented on [#76](https://github.com/graphdeco-inria/gaussian-splatting/issues/76#issuecomment-1780583409) in [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
 <!--END_SECTION:activity-->
 
 
