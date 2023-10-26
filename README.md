@@ -13,7 +13,7 @@
 
 ### Recent activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1193](https://github.com/NVIDIA/apex/issues/1193#issuecomment-1764299474) in [NVIDIA/apex](https://github.com/NVIDIA/apex)
+1. 🗣 Commented on [#76](https://github.com/graphdeco-inria/gaussian-splatting/issues/76#issuecomment-1780572885) in [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
 <!--END_SECTION:activity-->
 
 
