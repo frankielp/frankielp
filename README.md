@@ -2,7 +2,7 @@
 
 - :mortar_board: I'm currently working as research resident at VinAI Research
 - 🔭 I'm interested in Computer Graphics and Computer Vision, especially in 3D deep learning. 
-- 📫 How to reach me: 
+- 📫  
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lephamnhatquynh/)
