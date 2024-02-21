@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nhat-Quynh (Frankie) </h1>
 
 - :mortar_board: I'm currently working as Research Resident at VinAI Research
-- 🔭 I'm interested in Computer Graphics and Computer Vision, especially in 3D deep learning. 
-- 📫  
-<div align="center">
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lephamnhatquynh/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/frankiecomrade/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lephamnhatquynh@gmail.com)
-  
-</div>
+- 🔭 I'm interested in Computer Graphics and Computer Vision, especially in 3D Reconstruction and 3D Generative Model. 
 
 ### Recent activities
 <!--START_SECTION:activity-->
